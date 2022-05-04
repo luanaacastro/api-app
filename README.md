@@ -4,10 +4,8 @@ API APP Leitura de Cocho é uma aplicação BackEnd desenvolvido em Java com o F
 
 A API foi desenvolvida para integração ao APP Leitura de Cocho.
 
-A API realiza os CRUDS de
+A API realiza os CRUD de
 
-- Usuáio
-- Fazenda
 - Registro
 
 
@@ -16,7 +14,7 @@ A API realiza os CRUDS de
 Para instalação primeiramente clone o repositório local, em seguida abra o diretório salvo e instale as dependências
 
 ```sh
-git clone https://github.com/RToramaru/manejo-de-cocho-app
+git clone https://github.com/luanaacastro/manejo-de-cocho-app
 cd api-app
 mvn clean install
 ```
